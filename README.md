@@ -1,5 +1,7 @@
 # Santa - Data Analysis and Predictive Modeling
 
+### Copyright 2024 Adina Amzarescu
+
 ## Description
 
 The "Santa" project is a comprehensive exploration of data analysis and predictive modeling. It encompasses Exploratory Data Analysis (EDA), Logistic Regression, and Decision Tree modeling. The project aims to extract meaningful insights from data and apply predictive algorithms to model and understand complex relationships.
@@ -36,10 +38,6 @@ Run the `Santa.ipynb` notebook to engage with the data analysis and modeling. Th
 ### Technical Aspects
 - **Python Libraries**: Utilizes libraries like `numpy`, `pandas`, `matplotlib`, `seaborn`, and `scikit-learn`.
 - **Structured Approach**: The notebook is structured into various sections, each focusing on different aspects of data analysis and modeling.
-
-## Contributing
-
-We encourage contributions, suggestions, and feedback. Feel free to open an issue or submit a pull request for improvements.
 
 ## License
 
